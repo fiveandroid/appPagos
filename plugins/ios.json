@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-purchase": {
+      "PACKAGE_NAME": "com.nospun.appPagos"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.nospun.appPagos"
+    }
+  },
+  "dependent_plugins": {}
+}
